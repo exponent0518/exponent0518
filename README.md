@@ -7,8 +7,11 @@
 
 
 ## Education
-* (2016. 02 ~ 2021. 02) INHA Univ. / Bachelor's course in Statistics
-* (2021. 02 ~ Current) INHA Univ. / The master's course in Industrial Engineering
+|Date|Contents|Organization|
+|:---|:---:|:---:|
+|2016. 02 ~ 2021. 02|Bachelor's course in Statistics|INHA Univ.|
+|2021. 02 ~ Current|The master's course in Industrial Engineering|INHA Univ.|
+
 
 ## Careers
 * (2021. 05 ~ 2021. 12) LG electronics / Big data-based injection/mold quality analysis✨
