@@ -7,16 +7,16 @@
 
 
 ## Education
-* 인하대학교 통계학과 졸업
-* 인하대학교 대학원 산업경영공학과 재학
+* (2016. 02 ~ 2021. 02) INHA Univ. / Bachelor's course in Statistics
+* (2021. 02 ~ Current) INHA Univ. / The master's course in Industrial Engineering
 
 ## Careers
-* (2021. 05 ~ 2021. 12) LG전자 프로젝트 1차 과제 수행✨
-* (2021. 08 ~ 2021. 12) PRML 스터디
-* (2021. 10 ~ 현재) Kaggle PetFinder Competition
+* (2021. 05 ~ 2021. 12) LG electronics / Big data-based injection/mold quality analysis✨
+* (2021. 08 ~ 2021. 12) PRML study
+* (2021. 10 ~ Current) Kaggle PetFinder Competition
 
 ## Papers
-* 평점에 따른 OTT 서비스 콘텐츠의 성공과 실패 요인 분석 - 넷플릭스를 중심으로 / 한국산업경영시스템학회
+* *Analysis of success and failure factors of OTT service contents according to the rating : Focus on Netflix / Journal of Society of Korea Industrial and Systems Engineering
 
 
 <!--
