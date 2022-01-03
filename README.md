@@ -2,10 +2,10 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=exponent0518&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltnghd5182)](https://solved.ac/wltnghd5182/)
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/exponent0518/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/exponent0518/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/exponent0518/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/exponent0518/discussion)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wltnghd5182/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wltnghd5182/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wltnghd5182/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wltnghd5182/discussion)
 
 
 
