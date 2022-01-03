@@ -2,11 +2,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=exponent0518&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltnghd5182)](https://solved.ac/wltnghd5182/)
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Jisoo_Hong/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Jisoo_Hong/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Jisoo_Hong/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Jisoo_Hong/discussion)
-
 
 
 ## 학력
