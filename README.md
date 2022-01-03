@@ -7,22 +7,19 @@
 
 
 ## Education
-|Date|Contents|Organization|
-|:---:|:---|:---:|
-|2016. 02 ~ 2021. 02|Bachelor's course in Statistics|INHA Univ.|
-|2021. 02 ~ Current|The master's course in Industrial Engineering|INHA Univ.|
+* 2016. 02 ~ 2021. 02 / Bachelor's course in Statistics / INHA Univ.
+* 2021. 02 ~ Current / The master's course in Industrial Engineering / INHA Univ.
 
 
 ## Careers
-|Date|Contents|Organization|
-|:---:|:---|:---:|
-|2021. 05 ~ 2021. 12|Big data-based injection/mold quality analysis✨|LG electronics|
-|2021. 08 ~ 2021. 12|PRML study|INHA Univ.|
-|2021. 10 ~ Current|Kaggle PetFinder Competition🌱|INHA Univ.|
-|2022. 01 ~ Current|Baekjoon study🌱|INHA Univ.|
+
+* 2021. 05 ~ 2021. 12 / Big data-based injection/mold quality analysis✨ / LG electronics
+* 2021. 08 ~ 2021. 12 / PRML study / INHA Univ.
+* 2021. 10 ~ Current / Kaggle PetFinder Competition🌱 / INHA Univ.
+* 2022. 01 ~ Current / Baekjoon study🌱 / INHA Univ.
 
 ## Papers
-* *Analysis of success and failure factors of OTT service contents according to the rating : Focus on Netflix / Journal of Society of Korea Industrial and Systems Engineering
+* *Analysis of success and failure factors of OTT service contents according to the rating : Focus on Netflix / Journal of Society of Korea Industrial and Systems Engineering*
 
 
 <!--
